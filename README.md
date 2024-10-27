@@ -1,4 +1,3 @@
-# dns-server-with-TCP-IP
 Expanding my Networking Knowledge! 
 
 >> DNS (Domain Name System): DNS servers translate human-readable domain names into IP addresses that computers use to identify each other on the Internet. It’s like the phonebook of the Internet!
